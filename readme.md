@@ -33,3 +33,16 @@
 | 20/07 | 2+5 | 30  |  6  |     |     |     |     |     |     |     |     |     | 19  |     |     |     | 50  |     |     |
 | 21/07 | 5+5 |     |  5  |     |     |     |     |     |     |     |     |     | 20  |     |     |     | 62  |     |     |
 |       |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+
+## Templates
+
+### Describe Image
+
+- Line graph:
+  1. The following graph gives information about **_(topic)_**
+  2. The items include **_(legends/x/y-axis)_**
+  3. The horizontal axis is **_(x-axis)_**, ranging from **_(xmin)_** to **_(xmax)_**.
+  4. According to this graph, in **_(xmin)_**, the value of **_(A-line)_** is around **_(value)_**, and that of **_(B-line)_** is higher/lower, which is around **_(value)_**
+  5. You can see from this graph that **_(A-line)_** has been increasing/decreasing/stable from **_()_** to **_()_**
+  6. You can also see from the graph that **_(B-line)_** has always been higher than **_(A-line)_** from **_()_** to **()**
+  7. In conclusion, **_(A/B/C-line)_** has the highest **_(y-property)_**. OR This graph is very informative.
